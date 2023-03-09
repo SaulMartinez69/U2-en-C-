@@ -1,0 +1,34 @@
+C:\Users\juan\source\repos\tarea en c\tarea en c\bin\Debug\net6.0-windows\tarea en c.exe
+C:\Users\juan\source\repos\tarea en c\tarea en c\bin\Debug\net6.0-windows\tarea en c.deps.json
+C:\Users\juan\source\repos\tarea en c\tarea en c\bin\Debug\net6.0-windows\tarea en c.runtimeconfig.json
+C:\Users\juan\source\repos\tarea en c\tarea en c\bin\Debug\net6.0-windows\tarea en c.dll
+C:\Users\juan\source\repos\tarea en c\tarea en c\bin\Debug\net6.0-windows\tarea en c.pdb
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea en c.csproj.AssemblyReference.cache
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea_en_c.Form1.resources
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea en c.csproj.GenerateResource.cache
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea en c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea en c.AssemblyInfoInputs.cache
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea en c.AssemblyInfo.cs
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea en c.csproj.CoreCompileInputs.cache
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea en c.dll
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\refint\tarea en c.dll
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea en c.pdb
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\tarea en c.genruntimeconfig.cache
+C:\Users\juan\source\repos\tarea en c\tarea en c\obj\Debug\net6.0-windows\ref\tarea en c.dll
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\bin\Debug\net6.0-windows\tarea en c.exe
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\bin\Debug\net6.0-windows\tarea en c.deps.json
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\bin\Debug\net6.0-windows\tarea en c.runtimeconfig.json
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\bin\Debug\net6.0-windows\tarea en c.dll
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\bin\Debug\net6.0-windows\tarea en c.pdb
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea en c.csproj.AssemblyReference.cache
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea_en_c.Form1.resources
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea en c.csproj.GenerateResource.cache
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea en c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea en c.AssemblyInfoInputs.cache
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea en c.AssemblyInfo.cs
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea en c.csproj.CoreCompileInputs.cache
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea en c.dll
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\refint\tarea en c.dll
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea en c.pdb
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\tarea en c.genruntimeconfig.cache
+C:\Users\Saulm\source\repos\U2 en C#\tarea en c\obj\Debug\net6.0-windows\ref\tarea en c.dll
